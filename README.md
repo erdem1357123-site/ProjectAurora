@@ -1,2 +1,2 @@
 # ProjectAurora
-Project Aurora is a Windows-copy that modernizes Windows and makes it more better!
+Project Aurora is a Windows-copy that modernizes Windows and makes it more better! This is the site
